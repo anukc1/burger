@@ -1,0 +1,32 @@
+img {
+    max-width: 20em;
+    max-height: 20em;
+    padding: auto;
+    margin: auto;
+}
+
+h1 {
+    padding: auto;
+    margin: auto;
+    font-family: fantasy;
+}
+
+.create-form {
+    padding: auto;
+    margin: auto;
+    
+
+}
+
+body {
+    background-image: url("https://cdn.pixabay.com/photo/2017/08/12/10/13/background-2633962_1280.jpg")
+}
+
+.devoured {
+    text-align: center;
+}
+
+.write {
+    margin: auto;
+    padding: auto
+}
